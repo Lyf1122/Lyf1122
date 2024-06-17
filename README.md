@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning backend skills
+
+![Lyf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyf1122&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyf1122&layout=compact)](https://github.com/Lyf1122/github-readme-stats)
