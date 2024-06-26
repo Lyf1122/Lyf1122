@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning backend skills
+- 🌱 I’m currently learning backend skills.
+- 😄 A freshman in Java.
 
 ![Lyf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyf1122&show_icons=true&theme=tokyonight)
 
